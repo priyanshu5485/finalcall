@@ -7,3 +7,4 @@
 1. [Pranav Parth](https://github.com/pranavparth0104)
 2. [Bishak Dey](https://github.com/bishakdey)
 3. Prateek singh
+4. Vinayak
