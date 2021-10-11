@@ -5,4 +5,4 @@
 # Contributors
 
 1. [Pranav Parth](https://github.com/pranavparth0104)
-2. Prateek Singh
+2. Prateek kumar Singh
